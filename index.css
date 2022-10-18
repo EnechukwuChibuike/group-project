@@ -45,3 +45,23 @@ nav p {
    width: 20px;
    margin-top: 3px;
 }
+
+.first {
+   color: rgb(170, 152, 152);
+   font-size: 70px;
+}
+
+.second {
+   color: #363681;
+   font-size: 45px;
+}
+
+.horline {
+   /* color:#363681; */
+   width: 60vh;
+   margin-top: 10px;
+}
+
+.lorem {
+   color: rgb(150, 137, 137);
+}
