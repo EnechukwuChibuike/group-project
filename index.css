@@ -1,0 +1,37 @@
+main {
+    background-color: rgb(4, 4, 43);
+    height: 100vh;
+    background-size: cover;
+    padding-top: 30px;
+    padding-left: 70px;
+}
+ 
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.first {
+    color: rgb(170, 152, 152);
+    font-size: 70px;
+    
+}
+
+
+.second {
+    color:#363681;
+    font-size: 45px;
+}
+
+
+.horline {
+    /* color:#363681; */
+    width: 60vh;
+    margin-top: 10px;
+}
+
+
+.lorem {
+    color:rgb(150, 137, 137);
+}
