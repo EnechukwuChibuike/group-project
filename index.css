@@ -47,12 +47,12 @@ nav p {
 }
 
 .first {
-   color: rgb(170, 152, 152);
+   color: white;
    font-size: 70px;
 }
 
 .second {
-   color: #363681;
+   color: whitesmoke;
    font-size: 45px;
 }
 
@@ -63,5 +63,5 @@ nav p {
 }
 
 .lorem {
-   color: rgb(150, 137, 137);
+   color: white;
 }
