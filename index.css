@@ -2,6 +2,7 @@ main {
    background-image: url(/bg.jpg);
    height: 100vh;
    background-size: cover;
+   padding: 0px 60px;
 }
 
 header {
