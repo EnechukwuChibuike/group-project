@@ -1,37 +1,67 @@
 main {
-    background-color: rgb(4, 4, 43);
-    height: 100vh;
-    background-size: cover;
-    padding-top: 30px;
-    padding-left: 70px;
+   background-image: url(/bg.jpg);
+   height: 100vh;
+   background-size: cover;
+   padding: 0px 60px;
 }
- 
+
+header {
+   background-color: transparent;
+   height: 10vh;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
 
 * {
-    padding: 0%;
-    margin: 0%;
+   padding: 0%;
+   margin: 0%;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+   width: 50px;
+   height: 30px;
+}
+
+a {
+   text-decoration: none;
+   color: white;
+   width: 150px;
+}
+
+nav p {
+   width: 200px;
+   /* border-right: c  ; */
+}
+
+.menuicon {
+   display: flex;
+   flex-direction: column;
+}
+.menu {
+   background-color: white;
+   height: 2px;
+   width: 20px;
+   margin-top: 3px;
 }
 
 .first {
-    color: rgb(170, 152, 152);
-    font-size: 70px;
-    
+   color: white;
+   font-size: 70px;
 }
-
 
 .second {
-    color:#363681;
-    font-size: 45px;
+   color: #363681;
+   font-size: 45px;
 }
-
 
 .horline {
-    /* color:#363681; */
-    width: 60vh;
-    margin-top: 10px;
+   /* color:#363681; */
+   width: 60vh;
+   margin-top: 10px;
 }
 
-
 .lorem {
-    color:rgb(150, 137, 137);
+   color: white;
 }
